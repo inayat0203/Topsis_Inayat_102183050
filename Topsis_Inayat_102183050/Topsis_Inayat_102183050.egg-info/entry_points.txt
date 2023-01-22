@@ -1,0 +1,2 @@
+[console_scripts]
+topsis = Topsis_Inayat_102183050.102183050:main
